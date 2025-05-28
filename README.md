@@ -5,9 +5,36 @@ This project handles PDF operations like merging, splitting, compressing, and co
 ## 📽️ Demo
 
 [Click here to view the demo video](assets/demo.mp4)
-[Click here to watch the demo video](https://SOBOJBANGLA.github.io/Love_PDF/)
+
 ## 🚀 Features
 - Merge PDF
 - Split PDF
 - Compress PDF
 - Convert to Word/Image
+
+
+# 📄 Love PDF API
+
+This project handles PDF operations like merging, splitting, compressing, and converting using a Laravel API.
+
+---
+
+## 📽️ Demo
+
+🎬 [Click here to watch the demo video on GitHub Pages](https://SOBOJBANGLA.github.io/Love_PDF/)
+
+> ⚠️ Note: If you're seeing a broken video link or "View raw", it's because GitHub doesn't preview large media files directly in the repo. That's why the video is hosted via GitHub Pages.
+
+---
+
+## 🚀 Features
+
+- 🔗 Merge PDF  
+- ✂️ Split PDF  
+- 📦 Compress PDF  
+- 🔄 Convert PDF to Word/Image  
+
+---
+
+## 📁 Folder Structure
+
