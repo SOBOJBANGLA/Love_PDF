@@ -1,4 +1,13 @@
-<video width="640" height="360" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+# 📄 Love PDF API
+
+This project handles PDF operations like merging, splitting, compressing, and converting using Laravel API.
+
+## 📽️ Demo
+
+[Click here to view the demo video](assets/demo.mp4)
+
+## 🚀 Features
+- Merge PDF
+- Split PDF
+- Compress PDF
+- Convert to Word/Image
